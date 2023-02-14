@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T05:55:56.054Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Bx4ghMMi2dv5YOI576nK" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T06:09:34.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tE11fNaQ3mAJzazlk6qW" version="20.8.20" type="github">
   <diagram name="Page-1" id="UbYYmzny7DoSj12ywOUE">
-    <mxGraphModel dx="1776" dy="1225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CY89B89kzfZ1eAraWuW0-10" value="" style="points=[[0.13,0.02,0],[0.5,0,0],[0.87,0.02,0],[0.885,0.4,0],[0.985,0.985,0],[0.5,1,0],[0.015,0.985,0],[0.115,0.4,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.laptop;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="950" y="584" width="60.71" height="42.5" as="geometry" />
+          <mxGeometry x="740" y="584" width="60.71" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="CY89B89kzfZ1eAraWuW0-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.115;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.87;exitY=0.02;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#33FFFF;" edge="1" parent="1" source="CY89B89kzfZ1eAraWuW0-5" target="CY89B89kzfZ1eAraWuW0-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -114,6 +114,21 @@
         </mxCell>
         <mxCell id="CY89B89kzfZ1eAraWuW0-32" value="Remote P2P connection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="960" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CY89B89kzfZ1eAraWuW0-33" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;&lt;u&gt;Connection UML Diagarm&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="30" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY89B89kzfZ1eAraWuW0-34" value="Background Information" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="430" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY89B89kzfZ1eAraWuW0-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;This is a decentralized&amp;nbsp;chatting application&amp;nbsp;i.e., &lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;clients&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;communicate to each other directly over the network&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;without the need for a central server to communicate the&amp;nbsp; two nodes.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="950" y="170" width="450" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CY89B89kzfZ1eAraWuW0-36" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;How it works&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="950" y="300" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY89B89kzfZ1eAraWuW0-37" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Newly connected cline the network will first connect to the&amp;nbsp;&amp;nbsp;Rendezvous Server, they connect to it passing&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;to it their public Ip&amp;nbsp;over the internet, the&amp;nbsp;Rendezvous server then responds&amp;nbsp;with a list of all Connected and&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;currently online nodes nodes.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;The&amp;nbsp; newly nodes then use the list of the connected nodes from the server to&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;make to make a P2P connection with any node of its &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;choice&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="950" y="314" width="680" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
